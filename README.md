@@ -2,7 +2,7 @@
 # Bang Sampah - Platform Pengelolaan dan Pendidikan Sampah
 **Demo:** [Bang Sampah Demo Sementara](https://bangsampah.netlify.app/)
 
-**Tampilan:**
+**Tampilan Sementara:**
 ![Bang Sampah App](https://res.cloudinary.com/alfianmna/image/upload/v1705074691/Screenshot_2024-01-12_223641_hyevif.png)
 Selamat datang di Bang Sampah, sebuah platform inovatif yang menghubungkan masyarakat dengan pengepul sampah untuk memudahkan pengelolaan dan daur ulang sampah anorganik. Konsep ini terinspirasi dari bank sampah tradisional, di mana masyarakat dapat menyumbangkan sampah kering yang telah dipilah dan mendapatkan imbalan berupa uang atau barang dari pengepul.
 
