@@ -6,9 +6,9 @@
 ![Bang Sampah App](https://res.cloudinary.com/alfianmna/image/upload/v1705074691/Screenshot_2024-01-12_223641_hyevif.png)
 Selamat datang di Bang Sampah, sebuah platform inovatif yang menghubungkan masyarakat dengan pengepul sampah untuk memudahkan pengelolaan dan daur ulang sampah anorganik. Konsep ini terinspirasi dari bank sampah tradisional, di mana masyarakat dapat menyumbangkan sampah kering yang telah dipilah dan mendapatkan imbalan berupa uang atau barang dari pengepul.
 
-## Tentang Projek
+## Tentang Proyek
 
-Projek ini dibangun dengan menggunakan React.js , Tailwind CSS, dan Firebase.
+Projek ini dibangun dengan menggunakan React.js , Tailwind CSS, Google Maps, dan Firebase.
 
 ## Fitur Utama
   
@@ -23,7 +23,7 @@ Projek ini dibangun dengan menggunakan React.js , Tailwind CSS, dan Firebase.
 3. Buka terminal dan arahkan ke direktori projek.
 4. Jalankan perintah npm install untuk menginstal dependensi.
 5. Lalu ubah configurasi pada file firebase.js sesuai pada database yang telah dibuat
-6. BangSampah sudan dapat digunakan
+6. BangSampah sudah dapat digunakan
 
 ## Kontribusi
 
